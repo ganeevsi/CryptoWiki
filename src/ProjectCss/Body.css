@@ -1,0 +1,22 @@
+
+.left 
+{
+    border: 2px solid black;
+    font-weight: 500;
+}
+
+.left img
+{
+    max-width: 90%;
+    margin: 1em auto;
+}
+
+.left ul 
+{
+    list-style-type: none;
+    padding: 1em;
+}
+.side 
+{
+    border-top: 2px solid black;
+}
